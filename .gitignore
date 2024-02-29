@@ -2,3 +2,4 @@
 *.pdf
 submissions/
 data/
+.ipynb_checkpoints/
